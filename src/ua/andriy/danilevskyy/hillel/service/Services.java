@@ -1,5 +1,8 @@
 package ua.andriy.danilevskyy.hillel.service;
 
+/**
+ * Класс, в котором реализованы методы из домашки №6.
+ */
 public class Services {
 
     /**
