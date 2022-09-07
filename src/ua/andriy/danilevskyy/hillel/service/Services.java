@@ -9,7 +9,7 @@ public class Services {
      * Это метод printThreeWords(), который при вызове должен отпечатать в столбец три слова: Orange, Banana, Apple.
      */
     public void printThreeWords() {
-        System.out.println("Orange\n\nBanana\n\nApple");
+        System.out.println("Orange\nBanana\nApple");
     }
 
     /**
